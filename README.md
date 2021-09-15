@@ -11,4 +11,4 @@ Le “0” représente donc une situation “avant crise” et la courbe donne d
 Ces indicateurs sont déterminés à partir des données de trafic de plus de 1200 stations de comptage réparties sur l’ensemble du réseau routier national non concédé. Depuis mi-octobre ces indicateurs intègrent également 450 stations réparties sur l’ensemble du réseau routier national concédé.
 
 ## Licence des données
-Les données sont publiées sous [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence) : en cas de réutilisation, indiquer la paternité ainsi que le millésime des données.
+Les données sont publiées sous [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
