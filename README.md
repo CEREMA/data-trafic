@@ -1,5 +1,10 @@
 # data-trafic
-Données journalières de trafic routier [France](https://github.com/CEREMA/data-trafic/tree/main/agglos), [Agglomérations](https://github.com/CEREMA/data-trafic/tree/main/agglos), et [Collectivités](https://github.com/CEREMA/data-trafic/tree/main/collectivites) en [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence) et [ODbL (données de Paris)](https://opendatacommons.org/licenses/odbl/), utilisées sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier/).
+Données journalières de trafic routier utilisées sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier) :
+
+[France](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
+[Agglomérations](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
+[Collectivités](https://github.com/CEREMA/data-trafic/tree/main/collectivites)  
+
 
 ## À propos des indices de trafic
 Les indices sont construits en comparant le trafic actuel à un trafic “avant crise” qui correspond à la situation avant confinement.
