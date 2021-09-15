@@ -1,6 +1,5 @@
 # data-trafic
-Données de trafic France, Agglomérations, et Collectivités françaises en [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence), utilsées sur [la plateforme d'indicateurs de trafic routier du Cerema](https://dataviz.cerema.fr/trafic-routier/).
-Fréquence de mise à jour : journalière  
+Données journalières de trafic France, Agglomérations, et Collectivités françaises en [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence), utilsées sur [la plateforme d'indicateurs de trafic routier du Cerema](https://dataviz.cerema.fr/trafic-routier/).
 
 ## À propos des indices de trafic
 Les indices sont construits en comparant le trafic actuel à un trafic “avant crise” qui correspond à la situation avant confinement.
