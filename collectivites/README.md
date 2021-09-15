@@ -1,1 +1,1 @@
-Données de collectivités : Bordeaux et Paris
+Données de collectivités : Bordeaux (Licence Ouverte) et Paris (licence ODbL)
