@@ -11,7 +11,7 @@ Les indices sont construits en comparant le trafic actuel à un trafic “avant 
 
 Pour les indicateurs nationaux et régionaux, la référence “avant crise” est basée sur les débits moyens journaliers entre le 13 janvier et le 2 février 2020, pour éviter les effets liés aux vacances scolaires. Concernant les indicateurs relatifs aux agglomérations, la période de référence s'étale du 3 au 23 février 2020.
 
-Le “0” représente donc une situation “avant crise” et la courbe donne directement la chute ou la hausse de trafic observée.
+Le “0” représente donc une situation “avant crise” et les courbes donnent directement les chutes ou les hausses de trafic observées.
 
 Les indicateurs de trafic à l'échelle de la France et des régions sont calculés à partir des données de trafic de plus de 1200 stations de comptage réparties sur l’ensemble du réseau routier national non concédé. Depuis mi-octobre ces indicateurs intègrent également 450 stations réparties sur l’ensemble du réseau routier national concédé.
 
