@@ -1,0 +1,1 @@
+[Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
