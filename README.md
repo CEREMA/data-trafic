@@ -1,5 +1,5 @@
 # data-trafic
-Données journalières de trafic routier utilisées sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier) :
+Indices journaliers de trafic routier utilisés sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier), par rapport à une situation avant crise COVID-19 :
 
 [France](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
 [Agglomérations](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
