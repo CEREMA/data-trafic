@@ -19,3 +19,6 @@ Les indicateurs de trafic à l'échelle des agglomérations sont déterminés à
 
 ## Licence des données
 Les données sont toutes publiées sous [Licence Ouverte Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence), à l'exception de [celles de la Ville de Paris qui sont en ODbL](https://opendatacommons.org/licenses/odbl/)
+
+## Données annexes
+[Dates clés : confinement, reconfinement,...](dates.csv)
