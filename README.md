@@ -1,4 +1,4 @@
-# data-trafic
+# Indicateurs journaliers de trafic routier
 
 Indicateurs journaliers de trafic routier utilisés sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier), par rapport à une situation avant crise COVID-19 :
 
