@@ -1,6 +1,6 @@
 # data-trafic
 
-Indices journaliers de trafic routier utilisés sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier), par rapport à une situation avant crise COVID-19 :
+Indicateurs journaliers de trafic routier utilisés sur la plateforme [dataviz.cerema.fr/trafic-routier/](https://dataviz.cerema.fr/trafic-routier), par rapport à une situation avant crise COVID-19 :
 
 [France](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
 [Agglomérations](https://github.com/CEREMA/data-trafic/tree/main/agglos)  
@@ -10,7 +10,7 @@ Indices journaliers de trafic routier utilisés sur la plateforme [dataviz.cerem
 
 
 ## À propos des indices de trafic
-Les indices sont construits en comparant le trafic actuel à un trafic “avant crise” qui correspond à la situation avant la crise du COVID-19.
+Les Indicateurs sont construits en comparant le trafic actuel à un trafic “avant crise” qui correspond à la situation avant la crise du COVID-19.
 
 Pour les indicateurs nationaux et régionaux, la référence “avant crise” est basée sur les débits moyens journaliers entre le 13 janvier et le 2 février 2020, pour éviter les effets liés aux vacances scolaires. Concernant les indicateurs relatifs aux agglomérations, la période de référence s'étale du 3 au 23 février 2020.
 
