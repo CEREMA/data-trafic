@@ -944,11 +944,12 @@ Auvergne-Rhône-Alpes,2022-07-30,0.96,1.26,0.32,0.68
 Auvergne-Rhône-Alpes,2022-07-31,0.52,0.59,0.38,0.74
 Auvergne-Rhône-Alpes,2022-08-01,0.36,0.73,0.40,0.77
 Auvergne-Rhône-Alpes,2022-08-02,0.12,0.61,0.41,0.77
-Auvergne-Rhône-Alpes,2022-08-03,-0.07,0.40,0.38,0.74
-Auvergne-Rhône-Alpes,2022-08-04,0.14,0.58,0.37,0.73
-Auvergne-Rhône-Alpes,2022-08-05,0.47,0.70,0.36,0.69
-Auvergne-Rhône-Alpes,2022-08-06,0.89,1.04,0.35,0.66
-Auvergne-Rhône-Alpes,2022-08-07,0.37,0.43,0.32,0.64
+Auvergne-Rhône-Alpes,2022-08-03,-0.07,0.45,0.38,0.75
+Auvergne-Rhône-Alpes,2022-08-04,0.14,0.57,0.37,0.73
+Auvergne-Rhône-Alpes,2022-08-05,0.45,0.71,0.35,0.70
+Auvergne-Rhône-Alpes,2022-08-06,0.89,1.04,0.34,0.67
+Auvergne-Rhône-Alpes,2022-08-07,0.36,0.40,0.32,0.64
+Auvergne-Rhône-Alpes,2022-08-08,0.21,0.45,0.30,0.60
 Bourgogne-Franche-Comté,2020-01-01,-0.42,-0.88,NA,NA
 Bourgogne-Franche-Comté,2020-01-02,-0.07,-0.24,NA,NA
 Bourgogne-Franche-Comté,2020-01-03,-0.02,-0.10,NA,NA
@@ -1894,11 +1895,12 @@ Bourgogne-Franche-Comté,2022-07-30,0.36,-0.46,0.18,0.02
 Bourgogne-Franche-Comté,2022-07-31,0.18,-0.64,0.20,0.03
 Bourgogne-Franche-Comté,2022-08-01,0.19,0.06,0.22,0.01
 Bourgogne-Franche-Comté,2022-08-02,0.09,0.15,0.23,-0.01
-Bourgogne-Franche-Comté,2022-08-03,0.04,0.10,0.21,-0.05
-Bourgogne-Franche-Comté,2022-08-04,0.02,0.06,0.19,-0.08
-Bourgogne-Franche-Comté,2022-08-05,0.29,-0.00,0.17,-0.10
-Bourgogne-Franche-Comté,2022-08-06,0.29,-0.53,0.16,-0.12
-Bourgogne-Franche-Comté,2022-08-07,-0.07,-0.68,0.12,-0.12
+Bourgogne-Franche-Comté,2022-08-03,0.04,0.11,0.21,-0.04
+Bourgogne-Franche-Comté,2022-08-04,0.03,0.09,0.19,-0.07
+Bourgogne-Franche-Comté,2022-08-05,0.30,0.00,0.17,-0.10
+Bourgogne-Franche-Comté,2022-08-06,0.30,-0.53,0.16,-0.11
+Bourgogne-Franche-Comté,2022-08-07,-0.00,-0.68,0.14,-0.12
+Bourgogne-Franche-Comté,2022-08-08,0.06,-0.03,0.12,-0.13
 Bretagne,2020-01-01,-0.27,-0.87,NA,NA
 Bretagne,2020-01-02,0.07,-0.16,NA,NA
 Bretagne,2020-01-03,0.10,-0.13,NA,NA
@@ -2848,7 +2850,8 @@ Bretagne,2022-08-03,0.19,0.36,0.36,0.18
 Bretagne,2022-08-04,0.24,0.37,0.36,0.16
 Bretagne,2022-08-05,0.45,0.26,0.34,0.13
 Bretagne,2022-08-06,0.67,-0.33,0.34,0.13
-Bretagne,2022-08-07,0.36,-0.53,0.34,0.13
+Bretagne,2022-08-07,0.36,-0.52,0.34,0.13
+Bretagne,2022-08-08,0.32,0.22,0.34,0.10
 Centre-Val de Loire,2020-01-01,-0.03,-0.81,NA,NA
 Centre-Val de Loire,2020-01-02,0.56,-0.40,NA,NA
 Centre-Val de Loire,2020-01-03,0.61,-0.33,NA,NA
@@ -3799,6 +3802,7 @@ Centre-Val de Loire,2022-08-04,0.02,0.17,0.06,-0.06
 Centre-Val de Loire,2022-08-05,0.17,-0.00,0.04,-0.07
 Centre-Val de Loire,2022-08-06,0.06,-0.60,0.03,-0.07
 Centre-Val de Loire,2022-08-07,-0.15,-0.73,0.02,-0.08
+Centre-Val de Loire,2022-08-08,-0.04,-0.04,0.01,-0.11
 France,2020-01-01,-0.36,-0.86,NA,NA
 France,2020-01-02,0.02,-0.32,NA,NA
 France,2020-01-03,0.08,-0.24,NA,NA
@@ -4744,11 +4748,12 @@ France,2022-07-30,0.89,0.18,0.41,0.35
 France,2022-07-31,0.53,-0.01,0.44,0.38
 France,2022-08-01,0.42,0.43,0.46,0.38
 France,2022-08-02,0.20,0.40,0.46,0.36
-France,2022-08-03,0.16,0.33,0.45,0.34
+France,2022-08-03,0.16,0.34,0.45,0.34
 France,2022-08-04,0.23,0.37,0.44,0.31
-France,2022-08-05,0.55,0.33,0.43,0.29
-France,2022-08-06,0.89,0.24,0.43,0.30
-France,2022-08-07,0.51,-0.07,0.42,0.29
+France,2022-08-05,0.54,0.33,0.42,0.29
+France,2022-08-06,0.88,0.24,0.42,0.30
+France,2022-08-07,0.43,-0.16,0.41,0.28
+France,2022-08-08,0.38,0.27,0.40,0.25
 Grand Est,2020-01-01,-0.46,-0.89,NA,NA
 Grand Est,2020-01-02,-0.05,-0.40,NA,NA
 Grand Est,2020-01-03,0.00,-0.32,NA,NA
@@ -5698,7 +5703,8 @@ Grand Est,2022-08-03,0.07,0.47,0.13,0.23
 Grand Est,2022-08-04,0.08,0.44,0.12,0.21
 Grand Est,2022-08-05,0.22,0.31,0.10,0.19
 Grand Est,2022-08-06,0.09,-0.41,0.10,0.18
-Grand Est,2022-08-07,-0.06,-0.54,0.09,0.17
+Grand Est,2022-08-07,-0.07,-0.55,0.09,0.17
+Grand Est,2022-08-08,0.07,0.31,0.08,0.15
 Hauts-de-France,2020-01-01,-0.54,-0.95,NA,NA
 Hauts-de-France,2020-01-02,-0.11,-0.22,NA,NA
 Hauts-de-France,2020-01-03,0.01,-0.20,NA,NA
@@ -6649,6 +6655,7 @@ Hauts-de-France,2022-08-04,0.59,0.17,0.80,0.02
 Hauts-de-France,2022-08-05,0.95,-0.03,0.79,-0.00
 Hauts-de-France,2022-08-06,1.32,-0.49,0.78,-0.02
 Hauts-de-France,2022-08-07,0.92,-0.57,0.81,-0.04
+Hauts-de-France,2022-08-08,0.79,0.28,0.82,-0.04
 Ile-de-France,2020-01-01,NA,NA,NA,NA
 Ile-de-France,2020-01-02,NA,NA,NA,NA
 Ile-de-France,2020-01-03,NA,NA,NA,NA
@@ -7597,8 +7604,9 @@ Ile-de-France,2022-08-02,-0.13,0.17,0.02,-0.00
 Ile-de-France,2022-08-03,-0.13,0.16,0.00,-0.03
 Ile-de-France,2022-08-04,-0.09,0.16,-0.01,-0.06
 Ile-de-France,2022-08-05,0.05,-0.02,-0.03,-0.10
-Ile-de-France,2022-08-06,0.19,-0.61,-0.03,-0.11
-Ile-de-France,2022-08-07,NA,NA,NA,NA
+Ile-de-France,2022-08-06,0.02,-0.65,-0.06,-0.11
+Ile-de-France,2022-08-07,-0.04,-0.75,-0.05,-0.12
+Ile-de-France,2022-08-08,NA,NA,NA,NA
 Normandie,2020-01-01,-0.42,-0.92,NA,NA
 Normandie,2020-01-02,-0.05,-0.27,NA,NA
 Normandie,2020-01-03,0.00,-0.24,NA,NA
@@ -8549,6 +8557,7 @@ Normandie,2022-08-04,0.18,0.22,0.30,0.01
 Normandie,2022-08-05,0.45,0.08,0.28,-0.02
 Normandie,2022-08-06,0.69,-0.43,0.29,-0.02
 Normandie,2022-08-07,0.29,-0.54,0.30,-0.02
+Normandie,2022-08-08,0.32,0.15,0.31,-0.02
 Nouvelle-Aquitaine,2020-01-01,-0.34,-0.85,NA,NA
 Nouvelle-Aquitaine,2020-01-02,0.06,-0.38,NA,NA
 Nouvelle-Aquitaine,2020-01-03,0.11,-0.30,NA,NA
@@ -9497,8 +9506,9 @@ Nouvelle-Aquitaine,2022-08-02,0.31,0.26,0.57,0.11
 Nouvelle-Aquitaine,2022-08-03,0.32,0.26,0.56,0.09
 Nouvelle-Aquitaine,2022-08-04,0.32,0.20,0.54,0.06
 Nouvelle-Aquitaine,2022-08-05,0.66,0.09,0.52,0.04
-Nouvelle-Aquitaine,2022-08-06,0.88,-0.32,0.51,0.03
-Nouvelle-Aquitaine,2022-08-07,0.84,-0.48,0.55,0.03
+Nouvelle-Aquitaine,2022-08-06,0.87,-0.32,0.51,0.03
+Nouvelle-Aquitaine,2022-08-07,0.48,-0.54,0.49,0.02
+Nouvelle-Aquitaine,2022-08-08,0.73,0.11,0.53,0.01
 Occitanie,2020-01-01,-0.34,-0.79,NA,NA
 Occitanie,2020-01-02,0.02,-0.21,NA,NA
 Occitanie,2020-01-03,0.08,-0.15,NA,NA
@@ -10448,7 +10458,8 @@ Occitanie,2022-08-03,0.47,0.80,2.16,1.27
 Occitanie,2022-08-04,1.19,0.85,2.15,1.26
 Occitanie,2022-08-05,2.30,1.18,2.12,1.21
 Occitanie,2022-08-06,4.06,2.07,2.04,1.23
-Occitanie,2022-08-07,2.57,0.98,1.97,1.16
+Occitanie,2022-08-07,2.57,0.95,1.97,1.16
+Occitanie,2022-08-08,2.01,0.88,1.95,1.09
 Pays de la Loire,2020-01-01,-0.25,-0.87,NA,NA
 Pays de la Loire,2020-01-02,0.04,-0.18,NA,NA
 Pays de la Loire,2020-01-03,0.06,-0.17,NA,NA
@@ -11399,6 +11410,7 @@ Pays de la Loire,2022-08-04,0.15,0.19,0.31,0.11
 Pays de la Loire,2022-08-05,0.35,0.12,0.29,0.07
 Pays de la Loire,2022-08-06,0.52,-0.50,0.29,0.05
 Pays de la Loire,2022-08-07,0.29,-0.60,0.28,0.03
+Pays de la Loire,2022-08-08,0.19,0.10,0.26,-0.01
 Provence-Alpes-Côte d'Azur,2020-01-01,-0.19,-0.82,NA,NA
 Provence-Alpes-Côte d'Azur,2020-01-02,0.11,-0.28,NA,NA
 Provence-Alpes-Côte d'Azur,2020-01-03,0.21,-0.19,NA,NA
@@ -12348,4 +12360,5 @@ Provence-Alpes-Côte d'Azur,2022-08-03,0.25,0.85,0.24,0.62
 Provence-Alpes-Côte d'Azur,2022-08-04,0.29,0.99,0.25,0.62
 Provence-Alpes-Côte d'Azur,2022-08-05,0.38,0.99,0.25,0.63
 Provence-Alpes-Côte d'Azur,2022-08-06,0.37,0.15,0.26,0.64
-Provence-Alpes-Côte d'Azur,2022-08-07,0.10,-0.12,0.27,0.65
+Provence-Alpes-Côte d'Azur,2022-08-07,0.06,-0.17,0.26,0.64
+Provence-Alpes-Côte d'Azur,2022-08-08,0.31,0.72,0.27,0.63
