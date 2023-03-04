@@ -1154,8 +1154,9 @@ Auvergne-Rhône-Alpes,2023-02-25,-0.07,-0.28,0.03,0.16
 Auvergne-Rhône-Alpes,2023-02-26,-0.25,-0.44,0.02,0.16
 Auvergne-Rhône-Alpes,2023-02-27,0.04,0.27,0.02,0.16
 Auvergne-Rhône-Alpes,2023-02-28,0.07,0.40,0.02,0.15
-Auvergne-Rhône-Alpes,2023-03-01,0.07,0.38,0.02,0.14
-Auvergne-Rhône-Alpes,2023-03-02,0.10,0.38,0.02,0.14
+Auvergne-Rhône-Alpes,2023-03-01,0.06,0.40,0.02,0.14
+Auvergne-Rhône-Alpes,2023-03-02,0.09,0.39,0.02,0.14
+Auvergne-Rhône-Alpes,2023-03-03,0.21,0.29,0.02,0.15
 Bourgogne-Franche-Comté,2020-01-01,-0.42,-0.88,NA,NA
 Bourgogne-Franche-Comté,2020-01-02,-0.07,-0.24,NA,NA
 Bourgogne-Franche-Comté,2020-01-03,-0.02,-0.10,NA,NA
@@ -2312,7 +2313,8 @@ Bourgogne-Franche-Comté,2023-02-26,-0.17,-0.79,0.09,0.01
 Bourgogne-Franche-Comté,2023-02-27,0.07,0.15,0.09,0.01
 Bourgogne-Franche-Comté,2023-02-28,0.04,0.28,0.09,-0.02
 Bourgogne-Franche-Comté,2023-03-01,0.07,0.38,0.09,-0.02
-Bourgogne-Franche-Comté,2023-03-02,0.10,0.30,0.08,-0.01
+Bourgogne-Franche-Comté,2023-03-02,0.10,0.28,0.08,-0.02
+Bourgogne-Franche-Comté,2023-03-03,0.23,0.09,0.07,-0.01
 Bretagne,2020-01-01,-0.27,-0.87,NA,NA
 Bretagne,2020-01-02,0.07,-0.16,NA,NA
 Bretagne,2020-01-03,0.10,-0.13,NA,NA
@@ -3470,6 +3472,7 @@ Bretagne,2023-02-27,0.07,0.28,0.10,0.02
 Bretagne,2023-02-28,0.07,0.33,0.10,0.02
 Bretagne,2023-03-01,NA,NA,NA,NA
 Bretagne,2023-03-02,NA,NA,NA,NA
+Bretagne,2023-03-03,NA,NA,NA,NA
 Centre-Val de Loire,2020-01-01,-0.03,-0.81,NA,NA
 Centre-Val de Loire,2020-01-02,0.56,-0.40,NA,NA
 Centre-Val de Loire,2020-01-03,0.61,-0.33,NA,NA
@@ -4625,8 +4628,9 @@ Centre-Val de Loire,2023-02-25,-0.10,-0.59,-0.01,-0.00
 Centre-Val de Loire,2023-02-26,-0.21,-0.81,-0.00,-0.00
 Centre-Val de Loire,2023-02-27,0.09,0.27,0.01,0.00
 Centre-Val de Loire,2023-02-28,0.08,0.37,0.01,0.00
-Centre-Val de Loire,2023-03-01,0.07,0.44,0.02,0.01
-Centre-Val de Loire,2023-03-02,0.09,0.34,0.03,0.01
+Centre-Val de Loire,2023-03-01,0.08,0.44,0.02,0.01
+Centre-Val de Loire,2023-03-02,0.11,0.34,0.03,0.01
+Centre-Val de Loire,2023-03-03,0.17,0.07,0.03,0.01
 France,2020-01-01,-0.36,-0.86,NA,NA
 France,2020-01-02,0.02,-0.32,NA,NA
 France,2020-01-03,0.08,-0.24,NA,NA
@@ -5783,7 +5787,8 @@ France,2023-02-26,-0.10,-0.52,0.08,0.13
 France,2023-02-27,0.08,0.26,0.08,0.12
 France,2023-02-28,0.09,0.41,0.08,0.12
 France,2023-03-01,0.10,0.44,0.08,0.13
-France,2023-03-02,0.12,0.40,0.08,0.13
+France,2023-03-02,0.12,0.38,0.08,0.13
+France,2023-03-03,0.26,0.26,0.08,0.14
 Grand Est,2020-01-01,-0.46,-0.89,NA,NA
 Grand Est,2020-01-02,-0.05,-0.40,NA,NA
 Grand Est,2020-01-03,0.00,-0.32,NA,NA
@@ -6940,7 +6945,8 @@ Grand Est,2023-02-26,-0.20,-0.72,0.05,0.25
 Grand Est,2023-02-27,0.04,0.49,0.05,0.26
 Grand Est,2023-02-28,0.06,0.67,0.05,0.26
 Grand Est,2023-03-01,0.08,0.71,0.06,0.26
-Grand Est,2023-03-02,0.09,0.64,0.06,0.27
+Grand Est,2023-03-02,0.09,0.62,0.06,0.27
+Grand Est,2023-03-03,0.21,0.55,0.06,0.29
 Hauts-de-France,2020-01-01,-0.54,-0.95,NA,NA
 Hauts-de-France,2020-01-02,-0.11,-0.22,NA,NA
 Hauts-de-France,2020-01-03,0.01,-0.20,NA,NA
@@ -8098,6 +8104,7 @@ Hauts-de-France,2023-02-27,0.20,0.34,0.20,-0.03
 Hauts-de-France,2023-02-28,0.15,0.32,0.18,-0.02
 Hauts-de-France,2023-03-01,0.14,0.35,0.17,-0.01
 Hauts-de-France,2023-03-02,0.19,0.27,0.16,-0.01
+Hauts-de-France,2023-03-03,0.32,0.04,0.15,-0.00
 Ile-de-France,2020-01-01,NA,NA,NA,NA
 Ile-de-France,2020-01-02,NA,NA,NA,NA
 Ile-de-France,2020-01-03,NA,NA,NA,NA
@@ -9252,9 +9259,10 @@ Ile-de-France,2023-02-24,-0.01,0.09,-0.01,-0.05
 Ile-de-France,2023-02-25,-0.15,-0.68,-0.05,-0.06
 Ile-de-France,2023-02-26,-0.24,1.44,-0.08,0.26
 Ile-de-France,2023-02-27,-0.05,0.19,-0.08,0.26
-Ile-de-France,2023-02-28,-0.09,0.27,-0.09,0.25
-Ile-de-France,2023-03-01,-0.07,0.27,-0.09,0.26
-Ile-de-France,2023-03-02,NA,NA,NA,NA
+Ile-de-France,2023-02-28,-0.07,0.28,-0.08,0.25
+Ile-de-France,2023-03-01,-0.03,0.30,-0.08,0.27
+Ile-de-France,2023-03-02,0.04,0.32,-0.07,0.28
+Ile-de-France,2023-03-03,NA,NA,NA,NA
 Normandie,2020-01-01,-0.42,-0.92,NA,NA
 Normandie,2020-01-02,-0.05,-0.27,NA,NA
 Normandie,2020-01-03,0.00,-0.24,NA,NA
@@ -10412,6 +10420,7 @@ Normandie,2023-02-27,0.10,0.30,0.03,0.00
 Normandie,2023-02-28,0.07,0.38,0.03,0.01
 Normandie,2023-03-01,0.08,0.39,0.04,0.02
 Normandie,2023-03-02,0.12,0.38,0.04,0.03
+Normandie,2023-03-03,0.25,0.20,0.06,0.04
 Nouvelle-Aquitaine,2020-01-01,-0.34,-0.85,NA,NA
 Nouvelle-Aquitaine,2020-01-02,0.06,-0.38,NA,NA
 Nouvelle-Aquitaine,2020-01-03,0.11,-0.30,NA,NA
@@ -11568,7 +11577,8 @@ Nouvelle-Aquitaine,2023-02-26,-0.12,-0.70,0.15,0.04
 Nouvelle-Aquitaine,2023-02-27,0.13,0.16,0.14,0.04
 Nouvelle-Aquitaine,2023-02-28,0.14,0.35,0.14,0.04
 Nouvelle-Aquitaine,2023-03-01,0.17,0.39,0.14,0.04
-Nouvelle-Aquitaine,2023-03-02,0.21,0.25,0.14,0.04
+Nouvelle-Aquitaine,2023-03-02,0.17,0.27,0.13,0.05
+Nouvelle-Aquitaine,2023-03-03,0.40,0.09,0.14,0.05
 Occitanie,2020-01-01,-0.34,-0.79,NA,NA
 Occitanie,2020-01-02,0.02,-0.21,NA,NA
 Occitanie,2020-01-03,0.08,-0.15,NA,NA
@@ -12725,7 +12735,8 @@ Occitanie,2023-02-26,0.24,0.17,0.20,0.56
 Occitanie,2023-02-27,0.04,0.43,0.18,0.54
 Occitanie,2023-02-28,0.04,0.60,0.16,0.56
 Occitanie,2023-03-01,0.10,0.59,0.16,0.54
-Occitanie,2023-03-02,0.14,0.71,0.15,0.54
+Occitanie,2023-03-02,0.14,0.67,0.15,0.53
+Occitanie,2023-03-03,0.40,0.67,0.17,0.49
 Pays de la Loire,2020-01-01,-0.25,-0.87,NA,NA
 Pays de la Loire,2020-01-02,0.04,-0.18,NA,NA
 Pays de la Loire,2020-01-03,0.06,-0.17,NA,NA
@@ -13883,6 +13894,7 @@ Pays de la Loire,2023-02-27,0.10,0.34,0.12,0.03
 Pays de la Loire,2023-02-28,0.13,0.40,0.12,0.03
 Pays de la Loire,2023-03-01,NA,NA,NA,NA
 Pays de la Loire,2023-03-02,NA,NA,NA,NA
+Pays de la Loire,2023-03-03,NA,NA,NA,NA
 Provence-Alpes-Côte d'Azur,2020-01-01,-0.19,-0.82,NA,NA
 Provence-Alpes-Côte d'Azur,2020-01-02,0.11,-0.28,NA,NA
 Provence-Alpes-Côte d'Azur,2020-01-03,0.21,-0.19,NA,NA
@@ -15040,3 +15052,4 @@ Provence-Alpes-Côte d'Azur,2023-02-27,-0.03,0.21,0.02,0.11
 Provence-Alpes-Côte d'Azur,2023-02-28,0.04,0.37,0.02,0.11
 Provence-Alpes-Côte d'Azur,2023-03-01,0.06,0.44,0.03,0.11
 Provence-Alpes-Côte d'Azur,2023-03-02,0.09,0.45,0.03,0.12
+Provence-Alpes-Côte d'Azur,2023-03-03,0.25,0.50,0.04,0.14
